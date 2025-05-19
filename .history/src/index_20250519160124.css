@@ -19,9 +19,9 @@ body {
   user-select: none;
 }
 
-canvas {
+/* canvas {
   touch-action: none;
-}
+} */
 
 .scrim-max-width {
   margin-inline-start: auto;
